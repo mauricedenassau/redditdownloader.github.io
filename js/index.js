@@ -246,7 +246,7 @@ function download(anchor) {
                         dataType: "json",
                         contentType: "application/json; charset=utf-8",
                         headers: {
-                            "authorization": "Client-ID 326b1cb24da9d5e"
+                            "authorization": "Client-ID e945649c7c49dda"
                         },
                         post: post, // pass to success function
                         success: function(result, status, xhr) {
